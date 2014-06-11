@@ -1,4 +1,4 @@
 cousera
 =======
 
-Repository for Rprojcts with coursera
+Repository for R projects with coursera
